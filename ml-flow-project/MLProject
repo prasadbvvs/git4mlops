@@ -3,5 +3,5 @@ name: Loan_predictions
 conda_env: conda.yaml
 
 entry_points:
-  main:
+  ml-flow-project:
     command: "python loan_prediction.py"
